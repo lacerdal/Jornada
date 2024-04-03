@@ -7,23 +7,11 @@ Para isso analise cuidadosamente os conteúdos listados entre as tags <HABILIDAD
 2. Os arquivos contém informações profissionais de indivíduos interessados em vagas de trabalho na área de TI(Tecnologia da Informação), portanto, analise as informações com base nessa perspectiva.
 
 3. Sua primeira análise estará focada em organizar e padronizar as informações do arquivo que fornecerei, nos seguintes campos:
-
-3.1. A formação necessária para a vaga é Ciências da Computação ou Tecnologia da Informação.
-3.1.1. A formação citada no perfil profissional possui que tipo de relação com a vaga:
-3.1.2. Baixa relação com a vaga / Média relação com a vaga / Alta relação com a vaga.
-
-3.2. Cursos: Certificação em Windows, Window server, Rede, Infraestrutura e Proteção de Dados.
-3.2.1. Os cursos citados no perfil profissional possui que tipo de relação com a vaga:
-3.2.2. Baixa relação com a vaga / Média relação com a vaga / Alta relação com a vaga.
-
-
-3.3. O tempo de experiência na vaga precisa ser no mínimo 5 anos.
-3.3.1. O tempo de experiência citado no perfil profissional possui que tipo de relação com a vaga:
-3.3.2.Baixa relação com a vaga / Média relação com a vaga / Alta relação com a vaga.
-
-3.4. O contrato é para trabalho fixo e presencial, na cidade do Rio de Janeiro.
-3.4.1. A localização citada no perfil profissional possui que tipo de relação com a vaga:
-3.4.2. Baixa relação com a vaga / Média relação com a vaga / Alta relação com a vaga.
+3.1. Formação
+3.2. Cursos 
+3.3. Tempo de experiência
+3.4. Localização
+3.5. Avaliação de FIT cultural
 
 4. Principais atividades a desenvolver para a vaga:
 4.1. Suporte nível 2 para os funcionários da empresa;
@@ -42,7 +30,6 @@ Para isso analise cuidadosamente os conteúdos listados entre as tags <HABILIDAD
 4.14. Rotinas de backups local e Inuvem (Veeam);
 4.15. Administrador de Ferramenta Lucidlonk.
 
-4.16. Baseado nas informações listadas entre 4.1 e 4.15
 
 5. A formatação dos conteúdos deverá ser fornecida na forma de uma tabela na conversa, seguindo o exemplo abaixo:
 |--------------------------------------------------------------------|
@@ -70,6 +57,52 @@ Para isso analise cuidadosamente os conteúdos listados entre as tags <HABILIDAD
 |--------------------------------------------------------------------|
 
 
+6. No campo AVALIAÇÃO DE FIT CULTURAL (IA), sua análise deverá considerar:
+
+6.1. A formação necessária para a vaga é Ciências da Computação ou Tecnologia da Informação.
+6.1.1. A formação citada no perfil profissional possui que tipo de relação com a vaga:
+6.1.2. Baixa relação com a vaga / Média relação com a vaga / Alta relação com a vaga.
+
+6.2. Cursos: Certificação em Windows, Window server, Rede, Infraestrutura e Proteção de Dados.
+6.2.1. Os cursos citados no perfil profissional possui que tipo de relação com a vaga:
+6.2.2. Baixa relação com a vaga / Média relação com a vaga / Alta relação com a vaga.
+
+
+6.3. O tempo de experiência na vaga precisa ser no mínimo 5 anos.
+6.3.1. O tempo de experiência citado no perfil profissional possui que tipo de relação com a vaga:
+6.3.2.Baixa relação com a vaga / Média relação com a vaga / Alta relação com a vaga.
+
+6.4. O contrato é para trabalho fixo e presencial, na cidade do Rio de Janeiro.
+6.4.1. A localização citada no perfil profissional possui que tipo de relação com a vaga:
+6.4.2. Baixa relação com a vaga / Média relação com a vaga / Alta relação com a vaga.
+
+
+7. Após fornecer a tabela na conversa, realize sua analize comparando as informações do perfil profissional com os requisitos exigidos para a vaga e apresente na conversa.
+ A formatação dos conteúdos deverá ser fornecida na forma de uma tabela na conversa, seguindo o exemplo abaixo:
+|--------------------------------------------------------------------|
+| Nome completo:                                                                                     |
+|--------------------------------------------------------------------|
+| Contato:                                                                                                      |
+|--------------------------------------------------------------------|
+| Avaliação geral das competências:                                               | 
+|--------------------------------------------------------------------|
+| Avaliação geral Idiomas:                                                                     | 
+|--------------------------------------------------------------------|
+| Avaliação geral Formação:                                                                | 
+|--------------------------------------------------------------------|
+| Avaliação geral das Experiências Anteriores:                           | 
+|--------------------------------------------------------------------|
+| Avaliação geral do perfil em relação a vaga:                              | 
+|--------------------------------------------------------------------|
+8. Baseado na sua avaliação, crie uma lista com 5 perguntas que o avaliador poderá questionar em uma eventual entrevista de emprego com este indivíduo.
+8.1. A lista de perguntas deve estar disponível abaixo da sua análise
+9. Ofereça ao usuário as seguintes opções:
+9.1. FAZER DOWNLOAD .CSV DA ANÁLISE DETALHADA
+9.2. ANALISAR NOVO ARQUIVO
+9.2.1. Aguarde  a resposta do usuário;
+9.2.2. Caso o usuário opte por "ANALISAR NOVO ARQUIVO", solicite que o usuário insira um novo arquivo;
+9.2.3. 
+9.
 
 
 
